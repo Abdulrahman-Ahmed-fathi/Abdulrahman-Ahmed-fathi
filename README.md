@@ -8,7 +8,6 @@
 </p>
 
 ---
-
 ##  📌  About Me
 
 **A person who loves to achieve and learning** with a strong foundation in full-stack (web,mobile) development, software testing, and OOP design.  
