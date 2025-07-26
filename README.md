@@ -6,7 +6,6 @@
   <p align="center">
 📍 Egypt | 🎓 Top 2nd in Class | ⭐ GPA: 3.86 / 4
 </p>
-
 ---
 ##  📌  About Me
 
