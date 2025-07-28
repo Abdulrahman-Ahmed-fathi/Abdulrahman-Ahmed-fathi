@@ -7,6 +7,7 @@
 📍 Egypt | 🎓 Top 2nd in Class | ⭐ GPA: 3.86 / 4
 </p>
 ---
+
 ##  📌  About Me
 
 **A person who loves to achieve and learning** with a strong foundation in full-stack (web,mobile) development, software testing, and OOP design.  
