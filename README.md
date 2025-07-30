@@ -54,7 +54,6 @@
 
 - 🏛️ *Scholarship: Pioneers of Digital Egypt Initiative – 6 months*  
   `Laravel · jQuery · Bootstrap · MySQL · RestAssured . PHP . Soft Skills`
-
 ---
 
 ## 🧠 Leadership & Volunteering
@@ -84,8 +83,6 @@ but I'm now shifting to building in public to grow, contribute, and showcase my 
 <a href="https://github.com/Abdulrahman-Ahmed-fathi">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Ahmed-fathi&show_icons=true&theme=transparent&hide_border=true&hide_rank=false&card_width=350" width="45%" />
 </a>
-
-
 
 </div>
 
