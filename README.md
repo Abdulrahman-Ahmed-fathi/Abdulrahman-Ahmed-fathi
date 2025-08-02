@@ -108,7 +108,6 @@ but I'm now shifting to building in public to grow, contribute, and showcase my 
 ---
 
 ### 🌐 Connect with Me:
-
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulramanahmed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/abdo.ahmed.410104?locale=ar_AR"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
