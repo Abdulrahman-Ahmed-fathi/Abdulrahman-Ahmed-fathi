@@ -33,15 +33,12 @@
 <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,bootstrap,jquery,mysql,mongodb,git,github,vscode,postman" />
 
 </div>
-
 ---
-
 ## 🏆 Achievements
 
 - 🥈 Ranked **2nd in Class** – GPA: 3.86 / 4  
 - 🏅 Ideal Student of the Year 2024–2025  
 - 🎓 Honored for Academic Excellence 2022–2023  
-
 ---
 
 ## 👨‍💻 Experience
