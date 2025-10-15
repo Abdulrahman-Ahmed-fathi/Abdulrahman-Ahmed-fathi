@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Abdulrahman Ahmed </h1>
 <p align="center">
 💻 Software Engineer | 🧠 Problem Solver | 
-🚀 Passionate about Laravel, MERN, API Testing, and Scalable Systems 
+🚀 Passionate about  MERN, API Testing, and Scalable Systems 
   </p>
   <p align="center">
 📍 Egypt | 🎓 Top 2nd in Class | ⭐ GPA: 3.86 / 4
