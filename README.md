@@ -32,8 +32,8 @@
 <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,bootstrap,jquery,mysql,mongodb,git,github,vscode,postman" />
 
 </div>
----
-## 🏆 Achievements
+
+ 🏆 Achievements
 
 - 🥈 Ranked **2nd in Class** – GPA: 3.86 / 4  
 - 🏅 Ideal Student of the Year 2024–2025  
@@ -61,16 +61,7 @@
 
 ---
 
-## 📊 GitHub Insights
 
-<div align="center">
-
-🧠 **Why low activity?**
-
-I worked on many private projects and learning environments offline, 
-but I'm now shifting to building in public to grow, contribute, and showcase my evolution.
-
-</div>
 
 <br/>
 
