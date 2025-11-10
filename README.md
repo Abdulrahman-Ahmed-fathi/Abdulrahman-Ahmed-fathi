@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Abdulrahman Ahmed </h1>
 <p align="center">
-💻 Software Engineer | 🧠 Problem Solver | 
+💻 Software Engineer | 
 🚀 Passionate about  MERN, API Testing, and Scalable Systems 
   </p>
   <p align="center">
@@ -14,7 +14,7 @@
 
 - 🔭 currently working on Different types of **Full-Stack Projects**
 - 📂 All my projects: [My Repositories](https://github.com/Abdulrahman-Ahmed-fathi?tab=repositories)
-- 💬 Ask me about: Laravel · Node.js · React · MongoDB · MySQL · Testing
+
 
 
 💡 Always exploring new technologies, contributing to open source, and creating tools that matter.
@@ -40,17 +40,7 @@
 - 🎓 Honored for Academic Excellence 2022–2023  
 ---
 
-## 👨‍💻 Experience
 
-- 🧪 **Software Testing Intern** @ ITWORX Education  
-  `Postman · Swagger · TestNG · Java · OOP`
-
-- 🧩 **Back-End Intern** @ ITI  
-  `Laravel · SQL · Middleware · MVC`
-
-- 🏛️ *Scholarship: Pioneers of Digital Egypt Initiative – 6 months*  
-  `Laravel · jQuery · Bootstrap · MySQL · RestAssured . PHP . Soft Skills`
----
 
 ## 🧠 Leadership & Volunteering
 
